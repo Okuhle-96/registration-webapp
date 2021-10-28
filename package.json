@@ -1,0 +1,27 @@
+{
+  "name": "RegistrationWithRoutes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "command": "0.0.5",
+    "express": "^4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.2",
+    "nodemon": "^2.0.14",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
